@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a672e5f-3039-4b7a-b90d-9eff3ef6c26e" name="Changes" comment="feat: 初始化">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+    <list default="true" id="4a672e5f-3039-4b7a-b90d-9eff3ef6c26e" name="Changes" comment="feat: 配置workflow2">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/documentation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/documentation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,23 @@
       <option name="presentableId" value="Default" />
       <updated>1690189602331</updated>
       <workItem from="1690189603358" duration="180000" />
-      <workItem from="1690189796242" duration="925000" />
+      <workItem from="1690189796242" duration="1451000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 配置workflow">
+      <created>1690190746661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690190746661</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 配置workflow2">
+      <created>1690190835059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690190835059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,6 +69,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 初始化" />
+    <MESSAGE value="feat: 配置workflow" />
+    <MESSAGE value="feat: 配置workflow2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 配置workflow2" />
   </component>
 </project>
