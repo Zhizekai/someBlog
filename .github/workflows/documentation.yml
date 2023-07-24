@@ -18,7 +18,7 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        ACCESS_TOKEN: ${{ secrets.keloid99 }}
+        ACCESS_TOKEN: ${{ secrets.KELOID99 }}
         BRANCH: chole-pages
         FOLDER: build
         BUILD_SCRIPT: npm install && npm run build

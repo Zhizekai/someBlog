@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a672e5f-3039-4b7a-b90d-9eff3ef6c26e" name="Changes" comment="feat: 配置workflow2">
+    <list default="true" id="4a672e5f-3039-4b7a-b90d-9eff3ef6c26e" name="Changes" comment="feat: 配置workflow,修改token配置">
       <change beforePath="$PROJECT_DIR$/.github/workflows/documentation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/documentation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690189602331</updated>
       <workItem from="1690189603358" duration="180000" />
-      <workItem from="1690189796242" duration="1451000" />
+      <workItem from="1690189796242" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 配置workflow">
       <created>1690190746661</created>
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690190835059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: 配置workflow,修改token配置">
+      <created>1690191277972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690191277972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +78,7 @@
     <MESSAGE value="feat: 初始化" />
     <MESSAGE value="feat: 配置workflow" />
     <MESSAGE value="feat: 配置workflow2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 配置workflow2" />
+    <MESSAGE value="feat: 配置workflow,修改token配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 配置workflow,修改token配置" />
   </component>
 </project>
